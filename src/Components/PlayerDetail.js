@@ -27,6 +27,7 @@ function PlayerDetail(props) {
       (dataValue)=>{
 
         return (
+          <View key={dataValue.Name}>
           <Card>
           <Flex direction="row" alignItems="flex-start">
             <Image
@@ -59,6 +60,7 @@ function PlayerDetail(props) {
             </Flex>
           </Flex>
         </Card>
+        </View>
         )
       }
     );

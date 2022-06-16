@@ -1,6 +1,6 @@
 import Amplify from 'aws-amplify';
 import awsconfig from '../aws-exports';
-import React, { Component } from 'react';
+import React, { Component , useEffect,useState} from 'react';
 import '@aws-amplify/ui-react/styles.css';
 import { Image } from '@aws-amplify/ui-react';
 import PlayerDetail  from "./PlayerDetail";
@@ -30,14 +30,15 @@ function Carousel() {
 }
 
 
-export default class Home extends Component {
-    
-  componentDidMount(){
-    Carousel();
-  }
+export default function Home(){
 
-  render(){
-      
+  //const [count, setCount] = useState(0);
+
+  // Similar to componentDidMount and componentDidUpdate:
+  useEffect(() => {
+    Carousel();
+  });
+
     return (
     <Grid
       templateColumns={{ base: '1fr', large: '1fr 1fr 1fr' }}
@@ -52,7 +53,7 @@ export default class Home extends Component {
          width="100%"
          height="100%"
          objectFit="cover"
-         class="mySlides"
+         className="mySlides"
          objectPosition="50% 50%"
         src={homeimage}
         alt="View from road to Milford Sound, New Zealand.
@@ -64,7 +65,7 @@ export default class Home extends Component {
          height="100%"
          objectFit="cover"
          objectPosition="50% 50%"
-         class="mySlides"
+         className="mySlides"
         src={home2}
         alt="View from road to Milford Sound, New Zealand.
     Glittering stream with old log, snowy mountain peaks
@@ -75,7 +76,7 @@ export default class Home extends Component {
          height="100%"
          objectFit="cover"
          objectPosition="50% 50%"
-         class="mySlides"
+         className="mySlides"
         src={home3}
         alt="View from road to Milford Sound, New Zealand.
     Glittering stream with old log, snowy mountain peaks
@@ -113,7 +114,8 @@ export default class Home extends Component {
         <PlayerDetail data={SA}></PlayerDetail>
       </View>
     </Grid>
+    
     );
-    }
+    
 }
 
