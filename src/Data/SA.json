@@ -1,27 +1,27 @@
 [{
-    "Name": "Dean Elgar",
+    "Name": "Graeme Smith",
     "Team": "SA",
     "Gread": 5,
-    "Type": "Batter",
-    "detail":"In March 2021, Cricket SA announced that Elgar had been appointed as SA's Test captain",
-    "image":"https://upload.wikimedia.org/wikipedia/commons/e/ec/1_45_Dean_Elgar.jpg"
+    "Type": "Batsman",
+    "detail":"Tall, well built and known as the 'Biff' for his ability to smash the leather off the ball,...",
+    "image":"https://www.cricbuzz.com/a/img/v1/152x152/i1/c157277/graeme-smith.jpg"
 },
 {
-    "Name": "Sarel Erwee",
+    "Name": "Hashim Amla",
     "Team": "SA",
-    "Gread": 4.5,
-    "Type": "Batter",
-    "detail":"He is a left-handed batsman and a right-arm off-break bowler who plays for KwaZulu Natal.",
-    "image":"https://upload.wikimedia.org/wikipedia/commons/c/cb/Eden_Gardens_under_floodlights_during_a_match.jpg"
+    "Gread": 5,
+    "Type": "Batsman",
+    "detail":"Of Indian origin - his grandparents migrated to South Africa from Gujarat - Hashim Amla is one of the finest stroke-makers in the game. His supple wrists are a delight to watch, especially w...",
+    "image":"https://www.cricbuzz.com/a/img/v1/152x152/i1/c170633/hashim-amla.jpg"
 
 },
 {
-    "Name": "Janneman Malan",
+    "Name": "AB de Villiers",
     "Team": "SA",
-    "Gread": 4.2,
-    "Type": "Batter",
-    "detail":"He made his international debut for the SA in February 2019.",
-    "image":"https://upload.wikimedia.org/wikipedia/commons/c/cb/Eden_Gardens_under_floodlights_during_a_match.jpg"
+    "Gread": 5,
+    "Type": "WK-Batsman",
+    "detail":"Some cricketers' rise to the top constitutes hours of perseverance and hardwork, and others' include, predominantly, an abundance of talent and natural ability. Abraham Benjamin de Villiers ...",
+    "image":"https://www.cricbuzz.com/a/img/v1/152x152/i1/c170999/ab-de-villiers.jpg"
 
 },
 {
@@ -30,70 +30,70 @@
     "Gread": 5,
     "Type": "All-Rounder",
     "detail":"He is an aggressive left-handed middle order batsman and an occasional wicket-keeper.",
-    "image":"https://upload.wikimedia.org/wikipedia/commons/c/c5/DAVID_MILLER_%2815704846295%29.jpg"
+    "image":"https://www.cricbuzz.com/a/img/v1/152x152/i1/c170687/david-miller.jpg"
 
 },
 {
-    "Name": "Keegan Petersen",
+    "Name": "Faf du Plessis",
     "Team": "SA",
     "Gread": 4.5,
-    "Type": "Batter",
-    "detail":"A right-handed batsman, occasional wicket-keeper and occasional leg break ",
-    "image":"https://upload.wikimedia.org/wikipedia/commons/c/cb/Eden_Gardens_under_floodlights_during_a_match.jpg"
+    "Type": "Batsman",
+    "detail":"Francois du Plessis, fondly known as Faf, is South Africa's captain cool that might never have been. Having signed a Kolpak deal with Lancashire, Faf had initially decided to go the way of p... ",
+    "image":"https://www.cricbuzz.com/a/img/v1/152x152/i1/c170639/faf-du-plessis.jpg"
 
 },
 {
-    "Name": "Ryan Rickelton",
+    "Name": "Morne Morkel",
+    "Team": "SA",
+    "Gread": 5,
+    "Type": "Bowler",
+    "detail":"Morne Morkel is one of those big, tall fast bowlers who can intimidate batsmen with pace and bounce. He is the younger brother of Albie Morkel, who has also played Tests and ODIs for South A..",
+    "image":"https://www.cricbuzz.com/a/img/v1/152x152/i1/c157278/morne-morkel.jpg"
+
+},
+{
+    "Name": "Dale Steyn",
     "Team": "SA",
     "Gread": 5,
     "Type": "All-Rounder",
-    "detail":"He made his international debut for the SA cricket team on 31 March 2022.",
-    "image":"https://upload.wikimedia.org/wikipedia/commons/c/cb/Eden_Gardens_under_floodlights_during_a_match.jpg"
-
-},
-{
-    "Name": "Khaya Zondo",
-    "Team": "SA",
-    "Gread": 4.5,
-    "Type": "All-Rounder",
-    "detail":"He made his international debut for the SA cricket team in February 2018.",
-    "image":"https://upload.wikimedia.org/wikipedia/commons/c/cb/Eden_Gardens_under_floodlights_during_a_match.jpg"
+    "detail":"A predator’s eyes, an intimidating sprint to the crease, and a blur of a cherry, barely perceptible to the eye, getting past the bat before the mental faculties can process it, and the sig...",
+    "image":"https://www.cricbuzz.com/a/img/v1/152x152/i1/c170769/dale-steyn.jpg"
 
 },
 {
     "Name": "Quinton de Kock",
     "Team": "SA",
     "Gread": 4.2,
-    "Type": "Batter(W/C)",
+    "Type": "Batsman(W/C)",
     "detail":"He became the fourth player to score three successive one-day centuries and the second player to score four ODI centuries before his 21st birthday",
-    "image":"https://upload.wikimedia.org/wikipedia/commons/6/67/QUINTON_DE_KOCK_%2815681398316%29.jpg"
+    "image":"https://www.cricbuzz.com/a/img/v1/152x152/i1/c170698/quinton-de-kock.jpg"
 
 },
 {
-    "Name": "Heinrich Klaasen",
+    "Name": "Imran Tahir",
     "Team": "SA",
     "Gread": 4,
     "Type": "Baller",
-    "detail":"He was included in the Northerns cricket team squad for the 2015 Africa T20 Cup",
-    "image":"https://upload.wikimedia.org/wikipedia/commons/c/cb/Eden_Gardens_under_floodlights_during_a_match.jpg"
+    "detail":"In February 2017, at age 37, Imran Tahir reached the pinnacle of limited overs cricket by becoming the No. 1 ranked ODI and T20I bowler in the world. It was a testament to his desire to succ...",
+    "image":"https://www.cricbuzz.com/a/img/v1/152x152/i1/c170764/imran-tahir.jpg"
 
 },
 {
-    "Name": "Marco Jansen",
+    "Name": "Johan Botha",
     "Team": "SA",
     "Gread": 4.7,
-    "Type": "Baller",
-    "detail":"During his early years, Jansen used to open the batting. At the age of nine, in a 20-over match, he scored 164 not out",
-    "image":"https://upload.wikimedia.org/wikipedia/commons/c/cb/Eden_Gardens_under_floodlights_during_a_match.jpg"
+    "Type": "All-Rounder",
+    "detail":"Johan Botha has seen more than his fair share of ups and downs in a career that has seen him shift base to Australia. He has captained the South African limited overs side but hardly figured...",
+    "image":"https://www.cricbuzz.com/a/img/v1/152x152/i1/c154352/johan-botha.jpg"
 
 },
 {
-    "Name": "Wayne Parnell",
+    "Name": "Jacques Kallis",
     "Team": "SA",
     "Gread": 4.2,
-    "Type": "Baller",
-    "detail":"he is a SAn professional cricketer who most recently played for Northamptonshire in English county cricket. ",
-    "image":"https://upload.wikimedia.org/wikipedia/commons/8/85/WAYNE_PARNELL_%2815520474620%29.jpg"
+    "Type": "All-Rounder",
+    "detail":"Perhaps the greatest all-rounder of all time and certainly the best in recent times, Jacques Kallis' stats in all forms of the game makes for jaw-dropping stuff. The only man to have scored ...",
+    "image":"https://www.cricbuzz.com/a/img/v1/152x152/i1/c157423/jacques-kallis.jpg"
 
 },
 {
@@ -102,16 +102,25 @@
     "Gread": 4.7,
     "Type": "Baller",
     "detail":"he is a SAn professional cricketer who currently plays for Highveld Lions. He has represented SA at international level. ",
-    "image":"https://upload.wikimedia.org/wikipedia/commons/c/cb/Eden_Gardens_under_floodlights_during_a_match.jpg"
+    "image":"https://www.cricbuzz.com/a/img/v1/152x152/i1/c170695/dwaine-pretorius.jpg"
 
 },
 {
-    "Name": "Daryn Dupavillon",
+    "Name": "Aaron Phangiso",
+    "Team": "SA",
+    "Gread": 5,
+    "Type": "Bowler",
+    "detail":"Aaron Mpho Phangiso is a slow left-arm orthodox bowler, who represents Highveld Lions in the South African domestic circuit. He made his international debut for South Africa in a T20I agains...",
+    "image":"https://www.cricbuzz.com/a/img/v1/152x152/i1/c157703/aaron-phangiso.jpg"
+
+},
+{
+    "Name": "Wayne Parnell",
     "Team": "SA",
     "Gread": 4,
-    "Type": "Baller",
-    "detail":"He is a right-arm fast bowler who also bats right-handed.",
-    "image":"https://upload.wikimedia.org/wikipedia/commons/c/cb/Eden_Gardens_under_floodlights_during_a_match.jpg"
+    "Type": "Bowler",
+    "detail":"A fast left-arm pacer, who comes hustling into the wicket, he releases the ball with a whippy, open-chested action action. His stock delivery is the one which swings into the batsmen at high...",
+    "image":"https://www.cricbuzz.com/a/img/v1/152x152/i1/c154609/wayne-parnell.jpg"
 
 }
 ]

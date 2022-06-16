@@ -1,54 +1,63 @@
 [{
-    "Name": "Aaron Finch",
+    "Name": "Ricky Ponting",
     "Team": "Australia",
-    "detail": "he became the first player to reach 900 rating points on the official International Cricket Council (ICC) T20I rankings",
-    "Type": "Batter",
+    "detail": "Ricky Ponting had all the ingredients of a typical Australian - tough as nails..",
+    "Type": "Batsman",
     "Gread":5,
-    "image":"https://upload.wikimedia.org/wikipedia/commons/a/ae/AARON_FINCH_%286299558883%29.jpg"
+    "image":"https://www.cricbuzz.com/a/img/v1/152x152/i1/c154735/ricky-ponting.jpg"
 },
 {
-    "Name": "Marcus Harris",
+    "Name": "Adam Gilchrist",
     "Team": "Australia",
-    "detail": "He made his Test cricket debut for the Australia national cricket team in December 2018",
-    "Type": "Batter",
-    "Gread":4.7,
-    "image":"https://upload.wikimedia.org/wikipedia/commons/6/6a/Marcus_harris_boxing_day_test.jpg"
-
-},
-{
-    "Name": "Usman Khawaja",
-    "Team": "Australia",
-    "detail": "He has played county cricket in the United Kingdom and briefly played in both the Indian Premier League and Pakistan Super League.",
-    "Type": "Batter",
-    "Gread":4.5,
-    "image":"https://upload.wikimedia.org/wikipedia/commons/e/ef/2018.01.05.17.43.25-Usman_Khawaja_%26_Steve_Smith_%2838876757994%29_%28Khawaja_cropped%29.jpg"
-
-},
-{
-    "Name": "Glenn Maxwell",
-    "Team": "Australia",
-    "detail": " He also scored an unbeaten 145* from 65 balls against Sri Lanka in 2016, the fourth highest score in Twenty20 Internationals",
-    "Type": "Batter",
+    "detail": "The role of a wicket-keeper batsman primarily included keeping duties with the runs scored by the gloveman deemed as a bonus. All that changed with the arrival of Adam Gilchrist who revoluti...",
+    "Type": "Batsman",
     "Gread":5,
-    "image":"https://upload.wikimedia.org/wikipedia/commons/9/94/3-_Protest_Glenn_Maxwell_%28cropped%29.jpg"
+    "image":"https://www.cricbuzz.com/a/img/v1/152x152/i1/c156206/adam-gilchrist.jpg"
 
 },
 {
-    "Name": "Matt Renshaw",
+    "Name": "Michael Hussey",
     "Team": "Australia",
-    "detail": "He scored his maiden first-class century on 6 December 2015 in the 2015–16 Sheffield Shield against New South Wales.",
-    "Type": "Batter",
+    "detail": "A late bloomer to international cricket, Mike Hussey was one of the pillars of Australia's batting during their transition phase post Waugh era. Although not as attractive as left-handed bat...",
+    "Type": "Batsman",
     "Gread":4.7,
-    "image":"https://upload.wikimedia.org/wikipedia/commons/0/09/2_23_Renshaw_hundred.jpg"
+    "image":"https://www.cricbuzz.com/a/img/v1/152x152/i1/c180290/michael-hussey.jpg"
 
 },
 {
-    "Name": "Cameron Green",
+    "Name": "Matthew Hayden",
     "Team": "Australia",
-    "detail": " Averaging 82 runs per innings and taking 20 wickets in eight games in the under 19s national league.",
+    "detail": "Some batsmen were feared more for their presence and intent than their skill set in general. Matthew Hayden belonged to that crop of players. And it's not to suggest that he didn't have the ...",
+    "Type": "Batsman",
+    "Gread":5,
+    "image":"https://www.cricbuzz.com/a/img/v1/152x152/i1/c180327/matthew-hayden.jpg"
+
+},
+{
+    "Name": "Andrew Symonds",
+    "Team": "Australia",
+    "detail": " Brutally aggressive with the bat, powerfully agile on the field and deceptively dangerous with the ball, Andrew Symonds was the ultimate limited-overs package. Although his career didn't spa...",
+    "Type": "Batsman",
+    "Gread":5,
+    "image":"https://www.cricbuzz.com/a/img/v1/152x152/i1/c154738/andrew-symonds.jpg"
+
+},
+{
+    "Name": "Michael Clarke",
+    "Team": "Australia",
+    "detail": "Michael Clarke is among those rare Australian cricketers who saw his side's fortunes go a full circle through his career. As a young prodigious talent, he was part of the invincible side tha...",
+    "Type": "Batsman",
+    "Gread":4.7,
+    "image":"https://www.cricbuzz.com/a/img/v1/152x152/i1/c151582/michael-clarke.jpg"
+
+},
+{
+    "Name": "Brad Haddin",
+    "Team": "Australia",
+    "detail": " Although not exactly of the same caliber, Brad Haddin was a fairly good replacement to Adam Gilchrist when Australia were looking for a dashing wicket-keeper batsman post Gilly's retirement....",
     "Type": "All-Rounder",
     "Gread":4.2,
-    "image":"https://upload.wikimedia.org/wikipedia/commons/c/cb/Eden_Gardens_under_floodlights_during_a_match.jpg"
+    "image":"https://www.cricbuzz.com/a/img/v1/152x152/i1/c151545/brad-haddin.jpg"
 
 },
 {
@@ -57,60 +66,68 @@
     "detail": "Marsh has represented Australia in all three forms of cricket, making his debut during the 2011–12 season.",
     "Type": "All-Rounder",
     "Gread":4.2,
-    "image":"https://upload.wikimedia.org/wikipedia/commons/7/73/Mitchell_Marsh.jpg"
+    "image":"https://www.cricbuzz.com/a/img/v1/152x152/i1/c170643/mitchell-starc.jpg"
 
 },
 {
     "Name": "Matthew Wade",
     "Team": "Australia",
     "detail": "In December 2020, Wade captained Australia for the first time in international cricket",
-    "Type": "Batter(W/C)",
+    "Type": "Batsman(W/C)",
     "Gread":4.7,
-    "image":"https://upload.wikimedia.org/wikipedia/commons/2/23/Matthew_Wade.jpg"
+    "image":"https://www.cricbuzz.com/a/img/v1/152x152/i1/c156205/matthew-wade.jpg"
 
 },
 {
-    "Name": "Ashton Agar",
+    "Name": "Glenn McGrath",
     "Team": "Australia",
-    "detail": "he played two Test matches for the Australian national side during the 2013 Ashes series.",
-    "Type": "Baller",
-    "Gread":4.5,
-    "image":"https://upload.wikimedia.org/wikipedia/commons/8/8a/2018.02.03.20.31.23-AUSvNZL_T20_NZL_innings%2C_SCG-0002_%2838618210190%29_%28Agar_cropped%29.jpg"
+    "detail": "Good is ubiquitous, greatness rare. And then there's something greater and rarer, like a cricketing career that punctures conventions by making limitations fashionably incisive, so much so t...",
+    "Type": "Bowler",
+    "Gread":5,
+    "image":"https://www.cricbuzz.com/a/img/v1/152x152/i1/c156203/glenn-mcgrath.jpg"
 
 },
 {
-    "Name": "Mitchell Swepson",
+    "Name": "Shane Watson",
     "Team": "Australia",
-    "detail": "he made his international debut for the Australia cricket team in June 2018",
-    "Type": "Baller",
-    "Gread":4.2,
-    "image":"https://upload.wikimedia.org/wikipedia/commons/c/cb/Eden_Gardens_under_floodlights_during_a_match.jpg"
+    "detail": "Arguably the finest limited-overs all-rounder of the modern era, Shane Watson was the ideal package for white-ball cricket. He had the power game, could handle pace and spin with equal ease ...",
+    "Type": "Batsman",
+    "Gread":5,
+    "image":"https://www.cricbuzz.com/a/img/v1/152x152/i1/c180329/shane-watson.jpg"
 
 },
 {
     "Name": "Scott Boland",
     "Team": "Australia",
-    "detail": "Boland is one of a handful of Indigenous Australians to be selected to play for Australia at international level",
-    "Type": "Baller",
-    "Gread":4,
-    "image":"https://upload.wikimedia.org/wikipedia/commons/c/c9/Scott_boland_fielder_%28cropped%29.jpg"
+    "detail": "If Australia had not been blessed with a certain Shane Warne, two other spinners of his generation would have worn the Baggy Green far more than they eventually did. One of those spinners wa...",
+    "Type": "Bowler",
+    "Gread":5,
+    "image":"https://www.cricbuzz.com/a/img/v1/152x152/i1/c178328/brad-hogg.jpg"
 
 },
 {
-    "Name": "Pat Cummins",
+    "Name": "Brett Lee",
     "Team": "Australia",
-    "detail": "He is the vice-captain of the team in limited-overs cricket",
-    "Type": "Baller",
-    "Gread":4.5,
-    "image":"https://upload.wikimedia.org/wikipedia/commons/1/1f/2018.01.21.14.55.22-Roy_c_Finch_b_Cummins-0001_%2840183230984%29_%28Cummins_cropped%29.jpg"
+    "detail": "Arguably the fastest bowler ever, Brett Lee was a potent weapon in Australia's armoury during their glory days of the 2000s. If facing Glenn McGrath and Shane Warne wasn't threatening enough...",
+    "Type": "Bowler",
+    "Gread":5,
+    "image":"https://www.cricbuzz.com/a/img/v1/152x152/i1/c151600/brett-lee.jpg"
 
 },
 {
-    "Name": "Josh Hazlewood",
+    "Name": "Steven Smith",
     "Team": "Australia",
-    "detail": "He is a tall pace bowler known for his accuracy and has been compared to former Australian paceman Glenn McGrath",
-    "Type": "Baller",
+    "detail": "The best Test batsman at present, Steven Smith's career redemption is a story for the ages. Having made his name initially as a potential leg-spinner who could bat a bit, there was immense c...",
+    "Type": "All-Rounder",
     "Gread":4,
-    "image":"https://upload.wikimedia.org/wikipedia/commons/7/77/2018.01.21.17.06.41-Hazelwood_%2839139885264%29.jpg"
+    "image":"https://www.cricbuzz.com/a/img/v1/152x152/i1/c170624/steven-smith.jpg"
+},
+{
+    "Name": "Shane Warne",
+    "Team": "Australia",
+    "detail": "Arguably amongst the greatest bowlers ever to play the game, Shane Warne redefined spin bowling like never before. He brought a style quotient to slow bowling with his famous walk up to the ...",
+    "Type": "All-Rounder",
+    "Gread":5,
+    "image":"https://www.cricbuzz.com/a/img/v1/152x152/i1/c151580/shane-warne.jpg"
 }
 ]

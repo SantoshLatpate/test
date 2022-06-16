@@ -3,12 +3,15 @@ import './App.css';
 import Amplify from 'aws-amplify';
 import awsconfig from './aws-exports';
 import * as React from 'react';
-import { Heading } from '@aws-amplify/ui-react';
+import { Heading,Icon } from '@aws-amplify/ui-react';
 import { Button } from '@aws-amplify/ui-react';
+import { WiSolarEclipse,WiMoonAltWaningCrescent1 ,WiMoonThirdQuarter} from 'react-icons/wi';
+
 import {  Expander, ExpanderItem,  ThemeProvider,
   ColorMode,
   ToggleButton,
   ToggleButtonGroup,
+  defaultDarkModeOverride
      } from '@aws-amplify/ui-react';
 import Home from './Components/Home';
 import { Authenticator } from '@aws-amplify/ui-react';
@@ -16,35 +19,12 @@ import '@aws-amplify/ui-react/styles.css';
 
 Amplify.configure(awsconfig);
 
-const theme: Theme = {
-    name: 'my-theme',
-    overrides: [
-      {
-        colorMode: 'dark',
-        tokens: {
-          colors: {
-            font: {
-              primary: { value: '{colors.pink.100}' },
-              secondary: { value: '{colors.pink.90}' },
-              tertiary: { value: '{colors.pink.80}' },
-            },
-            background: {
-              primary: { value: '{colors.purple.10}' },
-              secondary: { value: '{colors.purple.20}' },
-              tertiary: { value: '{colors.purple.40}' },
-            },
-            border: {
-              primary: { value: '{colors.pink.60}' },
-              secondary: { value: '{colors.pink.40}' },
-              tertiary: { value: '{colors.pink.20}' },
-            },
-          },
-        },
-      },
-    ],
-  };
-
 function App() {
+  
+  const theme = {
+    name: 'my-theme',
+    overrides: [defaultDarkModeOverride],
+  };
 
   const [colorMode , setColorMode ]=React.useState('system');
   return (
@@ -57,9 +37,9 @@ function App() {
           isExclusive
           onChange={(value: ColorMode) => setColorMode(value)}
         >
-          <ToggleButton value="light">Light</ToggleButton>
-          <ToggleButton value="dark">Dark</ToggleButton>
-          <ToggleButton value="system">System</ToggleButton>
+          <ToggleButton value="light"><Icon ariaLabel="javascript" as={WiSolarEclipse}/></ToggleButton>
+          <ToggleButton value="dark"><Icon ariaLabel="javascript" as={WiMoonThirdQuarter}/></ToggleButton>
+          <ToggleButton value="system"><Icon ariaLabel="javascript" as={WiMoonAltWaningCrescent1}/></ToggleButton>
         </ToggleButtonGroup>
       <Expander type="multiple">
       <ExpanderItem title='Cricket' value="item-1">

@@ -7,7 +7,7 @@ import PlayerDetail  from "./PlayerDetail";
 import homeimage from '../Images/home.jpeg';
 import home2 from '../Images/home2.jpeg' ;
 import home3 from '../Images/home3.jpeg' ;
-import {  View ,Grid} from '@aws-amplify/ui-react';
+import {  View ,Grid,Card,Heading} from '@aws-amplify/ui-react';
 import data from '../Data/data.json';
 import austraila from '../Data/austrila.json';
 import SA from '../Data/SA.json';
@@ -86,16 +86,30 @@ export default class Home extends Component {
       <View
         rowSpan={{ base: 1, large: 2 }}
       >
+        <Card variation="elevated">
+        <Heading color="var(--amplify-components-link-color)" level={4} >
+           India      
+        </Heading></Card>
         <PlayerDetail data={data}></PlayerDetail>
       </View>
       <View
         rowSpan={{ base: 1, large: 2 }}
       >
+        <Card variation="elevated">
+        <Heading color="orange" level={4}>
+        Austraila      
+        </Heading>
+        </Card>
         <PlayerDetail data={austraila}></PlayerDetail>
       </View>
       <View
         rowSpan={{ base: 1, large: 2 }}
       >
+        <Card variation="elevated">
+        <Heading color="green"  level={4}>
+         South Africa      
+        </Heading>
+        </Card>
         <PlayerDetail data={SA}></PlayerDetail>
       </View>
     </Grid>

@@ -46,9 +46,9 @@ function PlayerDetail(props) {
                 <Badge size="small" variation="success">
                    {dataValue.Type}
                 </Badge>
-                <Rating value={dataValue.Gread} />
+                
               </Flex>
-  
+              <Rating value={dataValue.Gread} />
               <Heading level={6}>
                 {dataValue.Name}
                 
