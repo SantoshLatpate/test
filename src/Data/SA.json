@@ -1,0 +1,117 @@
+[{
+    "Name": "Dean Elgar",
+    "Team": "SA",
+    "Gread": 5,
+    "Type": "Batter",
+    "detail":"In March 2021, Cricket SA announced that Elgar had been appointed as SA's Test captain",
+    "image":"https://upload.wikimedia.org/wikipedia/commons/e/ec/1_45_Dean_Elgar.jpg"
+},
+{
+    "Name": "Sarel Erwee",
+    "Team": "SA",
+    "Gread": 4.5,
+    "Type": "Batter",
+    "detail":"He is a left-handed batsman and a right-arm off-break bowler who plays for KwaZulu Natal.",
+    "image":"https://upload.wikimedia.org/wikipedia/commons/c/cb/Eden_Gardens_under_floodlights_during_a_match.jpg"
+
+},
+{
+    "Name": "Janneman Malan",
+    "Team": "SA",
+    "Gread": 4.2,
+    "Type": "Batter",
+    "detail":"He made his international debut for the SA in February 2019.",
+    "image":"https://upload.wikimedia.org/wikipedia/commons/c/cb/Eden_Gardens_under_floodlights_during_a_match.jpg"
+
+},
+{
+    "Name": "David Miller",
+    "Team": "SA",
+    "Gread": 5,
+    "Type": "All-Rounder",
+    "detail":"He is an aggressive left-handed middle order batsman and an occasional wicket-keeper.",
+    "image":"https://upload.wikimedia.org/wikipedia/commons/c/c5/DAVID_MILLER_%2815704846295%29.jpg"
+
+},
+{
+    "Name": "Keegan Petersen",
+    "Team": "SA",
+    "Gread": 4.5,
+    "Type": "Batter",
+    "detail":"A right-handed batsman, occasional wicket-keeper and occasional leg break ",
+    "image":"https://upload.wikimedia.org/wikipedia/commons/c/cb/Eden_Gardens_under_floodlights_during_a_match.jpg"
+
+},
+{
+    "Name": "Ryan Rickelton",
+    "Team": "SA",
+    "Gread": 5,
+    "Type": "All-Rounder",
+    "detail":"He made his international debut for the SA cricket team on 31 March 2022.",
+    "image":"https://upload.wikimedia.org/wikipedia/commons/c/cb/Eden_Gardens_under_floodlights_during_a_match.jpg"
+
+},
+{
+    "Name": "Khaya Zondo",
+    "Team": "SA",
+    "Gread": 4.5,
+    "Type": "All-Rounder",
+    "detail":"He made his international debut for the SA cricket team in February 2018.",
+    "image":"https://upload.wikimedia.org/wikipedia/commons/c/cb/Eden_Gardens_under_floodlights_during_a_match.jpg"
+
+},
+{
+    "Name": "Quinton de Kock",
+    "Team": "SA",
+    "Gread": 4.2,
+    "Type": "Batter(W/C)",
+    "detail":"He became the fourth player to score three successive one-day centuries and the second player to score four ODI centuries before his 21st birthday",
+    "image":"https://upload.wikimedia.org/wikipedia/commons/6/67/QUINTON_DE_KOCK_%2815681398316%29.jpg"
+
+},
+{
+    "Name": "Heinrich Klaasen",
+    "Team": "SA",
+    "Gread": 4,
+    "Type": "Baller",
+    "detail":"He was included in the Northerns cricket team squad for the 2015 Africa T20 Cup",
+    "image":"https://upload.wikimedia.org/wikipedia/commons/c/cb/Eden_Gardens_under_floodlights_during_a_match.jpg"
+
+},
+{
+    "Name": "Marco Jansen",
+    "Team": "SA",
+    "Gread": 4.7,
+    "Type": "Baller",
+    "detail":"During his early years, Jansen used to open the batting. At the age of nine, in a 20-over match, he scored 164 not out",
+    "image":"https://upload.wikimedia.org/wikipedia/commons/c/cb/Eden_Gardens_under_floodlights_during_a_match.jpg"
+
+},
+{
+    "Name": "Wayne Parnell",
+    "Team": "SA",
+    "Gread": 4.2,
+    "Type": "Baller",
+    "detail":"he is a SAn professional cricketer who most recently played for Northamptonshire in English county cricket. ",
+    "image":"https://upload.wikimedia.org/wikipedia/commons/8/85/WAYNE_PARNELL_%2815520474620%29.jpg"
+
+},
+{
+    "Name": "Dwaine Pretorius",
+    "Team": "SA",
+    "Gread": 4.7,
+    "Type": "Baller",
+    "detail":"he is a SAn professional cricketer who currently plays for Highveld Lions. He has represented SA at international level. ",
+    "image":"https://upload.wikimedia.org/wikipedia/commons/c/cb/Eden_Gardens_under_floodlights_during_a_match.jpg"
+
+},
+{
+    "Name": "Daryn Dupavillon",
+    "Team": "SA",
+    "Gread": 4,
+    "Type": "Baller",
+    "detail":"He is a right-arm fast bowler who also bats right-handed.",
+    "image":"https://upload.wikimedia.org/wikipedia/commons/c/cb/Eden_Gardens_under_floodlights_during_a_match.jpg"
+
+}
+]

@@ -1,0 +1,118 @@
+[{
+    "Name": "Rohit Sharma",
+    "Team": "India",
+    "Gread": 5,
+    "Type": "Batter",
+    "detail":"Sharma currently holds the world record for the highest individual score (264) in a one-day international.",
+    "image":"https://upload.wikimedia.org/wikipedia/commons/6/69/Rohit_Sharma_2015_%28cropped%29.jpg"
+},
+{
+    "Name": "Virat Kohli",
+    "Team": "India",
+    "Gread": 5,
+    "Type": "Batter",
+    "detail":"He reached the number one spot in the ICC rankings for ODI batsmen for the first time in 2013",
+    "image":"https://upload.wikimedia.org/wikipedia/commons/1/15/Virat_Kohli_portrait.jpg"
+
+},
+{
+    "Name": "KL Rahul",
+    "Team": "India",
+    "Gread": 4.7,
+    "Type": "Batter",
+    "detail":"He was the first Indian to score a century on men's One Day International debut",
+    "image":"https://upload.wikimedia.org/wikipedia/commons/6/69/KL_Rahul_at_Femina_Miss_India_2018_Grand_Finale_%28cropped%29.jpg"
+
+},
+{
+    "Name": "Shubman Gill",
+    "Team": "India",
+    "Gread": 4.5,
+    "Type": "Batter",
+    "detail":"He was drafted into India's Under-19 side as the vice-captain for the 2018 Under-19 Cricket World Cup",
+    "image":"https://upload.wikimedia.org/wikipedia/commons/c/cb/Eden_Gardens_under_floodlights_during_a_match.jpg"
+
+},
+{
+    "Name": "Shikhar Dhawan",
+    "Team": "India",
+    "Gread": 4.5,
+    "Type": "Batter",
+    "detail":"he became the first Indian and ninth overall to score a century in his 100th ODI game",
+    "image":"https://upload.wikimedia.org/wikipedia/commons/3/3f/SHIKHAR_DHAWAN_%2816005494418%29.jpg"
+
+},
+{
+    "Name": "Mayank Agarwal",
+    "Team": "India",
+    "Gread": 4,
+    "Type": "Batter",
+    "detail":"He made his international debut for the India cricket team on 26 December 2018 against Australia at the MCG",
+    "image":"https://upload.wikimedia.org/wikipedia/commons/e/ec/Mayank_agarwal_%28cropped%29.jpg"
+
+},
+{
+    "Name": "Shreyas Iyer",
+    "Team": "India",
+    "Gread": 4.2,
+    "Type": "Batter",
+    "detail":"A right-handed middle-order batsman, Iyer has played One Day Internationals, Twenty20 Internationals and Test cricket for the India national cricket team",
+    "image":"https://upload.wikimedia.org/wikipedia/commons/c/cb/Eden_Gardens_under_floodlights_during_a_match.jpg"
+
+},
+
+{
+    "Name": "Ajinkya Rahane",
+    "Team": "India",
+    "Gread": 4,
+    "Type": "Batter",
+    "detail":"Under his captaincy, India won the 2020-21 Border–Gavaskar Trophy in Australia.",
+    "image":"https://upload.wikimedia.org/wikipedia/commons/9/96/Ajinkya_Rahane_2016_%28cropped%29.jpg"
+
+},
+{
+    "Name": "Hanuma Vihari",
+    "Team": "India",
+    "Gread": 3.5,
+    "Type": "Baller",
+    "detail":"he was a member of the India Under-19 cricket team that won the 2012 ICC Under-19 Cricket World Cup in Australia",
+    "image":"https://upload.wikimedia.org/wikipedia/commons/c/cb/Eden_Gardens_under_floodlights_during_a_match.jpg"
+
+},
+{
+    "Name": "Ravichandran Ashwin",
+    "Team": "India",
+    "Gread": 4.7,
+    "Type": "All-Rounder",
+    "detail":"he is currently the highest-ranked spinner in Test cricket, and the highest-ranked Test bowler for India on the ICC Player Rankings",
+    "image":"https://upload.wikimedia.org/wikipedia/commons/3/3c/Ravichandran_Ashwin_%28cropped%29.jpg"
+
+},
+{
+    "Name": "Deepak Chahar",
+    "Team": "India",
+    "Gread": 4.2,
+    "Type": "Baller",
+    "detail":"He became the first Indian male cricketer to take a hat-trick in a Twenty20 International (T20I) match.",
+    "image":"https://upload.wikimedia.org/wikipedia/commons/7/7b/Deepak_Chahar.jpg"
+
+},
+{
+    "Name": "Ravindra Jadeja",
+    "Team": "India",
+    "Gread": 4.7,
+    "Type": "All-Rounder",
+    "detail":"he became the top ranked bowler in the world leaving behind Ravichandran Ashwin who held that position for a long time",
+    "image":"https://upload.wikimedia.org/wikipedia/commons/2/24/Ravindra_Jadeja.jpg"
+
+},
+{
+    "Name": "Shardul Thakur",
+    "Team": "India",
+    "Gread": 4.2,
+    "Type": "Baller",
+    "detail":"He is a medium-fast bowler and a capable lower-order right-handed batsman. He plays first-class cricket for Mumbai ",
+    "image":"https://upload.wikimedia.org/wikipedia/commons/c/cb/Eden_Gardens_under_floodlights_during_a_match.jpg"
+
+}
+]

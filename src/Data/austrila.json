@@ -1,0 +1,116 @@
+[{
+    "Name": "Aaron Finch",
+    "Team": "Australia",
+    "detail": "he became the first player to reach 900 rating points on the official International Cricket Council (ICC) T20I rankings",
+    "Type": "Batter",
+    "Gread":5,
+    "image":"https://upload.wikimedia.org/wikipedia/commons/a/ae/AARON_FINCH_%286299558883%29.jpg"
+},
+{
+    "Name": "Marcus Harris",
+    "Team": "Australia",
+    "detail": "He made his Test cricket debut for the Australia national cricket team in December 2018",
+    "Type": "Batter",
+    "Gread":4.7,
+    "image":"https://upload.wikimedia.org/wikipedia/commons/6/6a/Marcus_harris_boxing_day_test.jpg"
+
+},
+{
+    "Name": "Usman Khawaja",
+    "Team": "Australia",
+    "detail": "He has played county cricket in the United Kingdom and briefly played in both the Indian Premier League and Pakistan Super League.",
+    "Type": "Batter",
+    "Gread":4.5,
+    "image":"https://upload.wikimedia.org/wikipedia/commons/e/ef/2018.01.05.17.43.25-Usman_Khawaja_%26_Steve_Smith_%2838876757994%29_%28Khawaja_cropped%29.jpg"
+
+},
+{
+    "Name": "Glenn Maxwell",
+    "Team": "Australia",
+    "detail": " He also scored an unbeaten 145* from 65 balls against Sri Lanka in 2016, the fourth highest score in Twenty20 Internationals",
+    "Type": "Batter",
+    "Gread":5,
+    "image":"https://upload.wikimedia.org/wikipedia/commons/9/94/3-_Protest_Glenn_Maxwell_%28cropped%29.jpg"
+
+},
+{
+    "Name": "Matt Renshaw",
+    "Team": "Australia",
+    "detail": "He scored his maiden first-class century on 6 December 2015 in the 2015–16 Sheffield Shield against New South Wales.",
+    "Type": "Batter",
+    "Gread":4.7,
+    "image":"https://upload.wikimedia.org/wikipedia/commons/0/09/2_23_Renshaw_hundred.jpg"
+
+},
+{
+    "Name": "Cameron Green",
+    "Team": "Australia",
+    "detail": " Averaging 82 runs per innings and taking 20 wickets in eight games in the under 19s national league.",
+    "Type": "All-Rounder",
+    "Gread":4.2,
+    "image":"https://upload.wikimedia.org/wikipedia/commons/c/cb/Eden_Gardens_under_floodlights_during_a_match.jpg"
+
+},
+{
+    "Name": "Mitchell Marsh",
+    "Team": "Australia",
+    "detail": "Marsh has represented Australia in all three forms of cricket, making his debut during the 2011–12 season.",
+    "Type": "All-Rounder",
+    "Gread":4.2,
+    "image":"https://upload.wikimedia.org/wikipedia/commons/7/73/Mitchell_Marsh.jpg"
+
+},
+{
+    "Name": "Matthew Wade",
+    "Team": "Australia",
+    "detail": "In December 2020, Wade captained Australia for the first time in international cricket",
+    "Type": "Batter(W/C)",
+    "Gread":4.7,
+    "image":"https://upload.wikimedia.org/wikipedia/commons/2/23/Matthew_Wade.jpg"
+
+},
+{
+    "Name": "Ashton Agar",
+    "Team": "Australia",
+    "detail": "he played two Test matches for the Australian national side during the 2013 Ashes series.",
+    "Type": "Baller",
+    "Gread":4.5,
+    "image":"https://upload.wikimedia.org/wikipedia/commons/8/8a/2018.02.03.20.31.23-AUSvNZL_T20_NZL_innings%2C_SCG-0002_%2838618210190%29_%28Agar_cropped%29.jpg"
+
+},
+{
+    "Name": "Mitchell Swepson",
+    "Team": "Australia",
+    "detail": "he made his international debut for the Australia cricket team in June 2018",
+    "Type": "Baller",
+    "Gread":4.2,
+    "image":"https://upload.wikimedia.org/wikipedia/commons/c/cb/Eden_Gardens_under_floodlights_during_a_match.jpg"
+
+},
+{
+    "Name": "Scott Boland",
+    "Team": "Australia",
+    "detail": "Boland is one of a handful of Indigenous Australians to be selected to play for Australia at international level",
+    "Type": "Baller",
+    "Gread":4,
+    "image":"https://upload.wikimedia.org/wikipedia/commons/c/c9/Scott_boland_fielder_%28cropped%29.jpg"
+
+},
+{
+    "Name": "Pat Cummins",
+    "Team": "Australia",
+    "detail": "He is the vice-captain of the team in limited-overs cricket",
+    "Type": "Baller",
+    "Gread":4.5,
+    "image":"https://upload.wikimedia.org/wikipedia/commons/1/1f/2018.01.21.14.55.22-Roy_c_Finch_b_Cummins-0001_%2840183230984%29_%28Cummins_cropped%29.jpg"
+
+},
+{
+    "Name": "Josh Hazlewood",
+    "Team": "Australia",
+    "detail": "He is a tall pace bowler known for his accuracy and has been compared to former Australian paceman Glenn McGrath",
+    "Type": "Baller",
+    "Gread":4,
+    "image":"https://upload.wikimedia.org/wikipedia/commons/7/77/2018.01.21.17.06.41-Hazelwood_%2839139885264%29.jpg"
+}
+]
