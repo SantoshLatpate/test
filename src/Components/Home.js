@@ -19,7 +19,7 @@ export default function Home() {
   // Similar to componentDidMount and componentDidUpdate:
 
   let myIndex = 0;
-  let called=false;
+  let firstTime=true;
   function Carousel() {
     myIndex++;
     const images = document.getElementsByClassName("mySlides");
@@ -40,9 +40,10 @@ export default function Home() {
   }
 
   useEffect(() => {
-    if(!called)
+    if(firstTime)
       Carousel();
-      called=true;
+
+      firstTime=false;
   });
 
   return (
