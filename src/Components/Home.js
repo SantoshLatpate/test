@@ -14,78 +14,64 @@ import SA from "../Data/SA.json";
 
 Amplify.configure(awsconfig);
 
-
 export default function Home() {
   // Similar to componentDidMount and componentDidUpdate:
-
-  let myIndex = 0;
-  let firstTime=true;
-  function Carousel() {
-    myIndex++;
-    const images = document.getElementsByClassName("mySlides");
-    for (var i = 0; i < images.length; i++) {
-      if (images[i].style != null) images[i].style.display = "none";
-    }
-
-    if (myIndex > images.length) {
-      myIndex=1;
-    }
-     
-    if(myIndex > 0){
-       images[myIndex - 1].style.display = "block";
-      }else{
-        images[1].style.display = "block";
-      }
-    setTimeout(Carousel, 3000);
-  }
+  const [imgIndex, setImgIndex] = useState(0);
 
   useEffect(() => {
-    if(firstTime)
-      Carousel();
+    const incrementIndex = () => {
+      setImgIndex(imgIndex + 1);
+    };
 
-      firstTime=false;
+    const intervalId = setInterval(incrementIndex, 3000);
+
+    return () => clearInterval(intervalId);
   });
+
+  const imgs = [
+    <Image
+      width="100%"
+      height="100%"
+      objectFit="cover"
+      className="mySlides"
+      objectPosition="50% 50%"
+      src={homeimage}
+      alt="View from road to Milford Sound, New Zealand.
+      Glittering stream with old log, snowy mountain peaks
+      tower over a green field."
+    />,
+    <Image
+      width="100%"
+      height="100%"
+      objectFit="cover"
+      objectPosition="50% 50%"
+      className="mySlides"
+      src={home2}
+      alt="View from road to Milford Sound, New Zealand.
+      Glittering stream with old log, snowy mountain peaks
+      tower over a green field."
+    />,
+    <Image
+      width="100%"
+      height="100%"
+      objectFit="cover"
+      objectPosition="50% 50%"
+      className="mySlides"
+      src={home3}
+      alt="View from road to Milford Sound, New Zealand.
+      Glittering stream with old log, snowy mountain peaks
+      tower over a green field."
+    />,
+  ];
+
+  const img = imgs[imgIndex % imgs.length];
 
   return (
     <Grid
       templateColumns={{ base: "1fr", large: "1fr 1fr 1fr" }}
       templateRows={{ base: "repeat(4, 10rem)", large: "repeat(3, 20rem)" }}
     >
-      <View columnSpan={[1, 1, 1, 3]}>
-        <Image
-          width="100%"
-          height="100%"
-          objectFit="cover"
-          className="mySlides"
-          objectPosition="50% 50%"
-          src={homeimage}
-          alt="View from road to Milford Sound, New Zealand.
-      Glittering stream with old log, snowy mountain peaks
-      tower over a green field."
-        />
-        <Image
-          width="100%"
-          height="100%"
-          objectFit="cover"
-          objectPosition="50% 50%"
-          className="mySlides"
-          src={home2}
-          alt="View from road to Milford Sound, New Zealand.
-      Glittering stream with old log, snowy mountain peaks
-      tower over a green field."
-        />
-        <Image
-          width="100%"
-          height="100%"
-          objectFit="cover"
-          objectPosition="50% 50%"
-          className="mySlides"
-          src={home3}
-          alt="View from road to Milford Sound, New Zealand.
-      Glittering stream with old log, snowy mountain peaks
-      tower over a green field."
-        />
-      </View>
+      <View columnSpan={[1, 1, 1, 3]}>{img}</View>
       <View rowSpan={{ base: 1, large: 2 }}>
         <Card variation="elevated">
           <Heading color="var(--amplify-components-link-color)" level={4}>
