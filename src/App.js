@@ -36,15 +36,16 @@ function App() {
           value={colorMode}
           isExclusive
           onChange={(value: ColorMode) => setColorMode(value)}
+          style={{position:'fixed', right:'10px',top:"5px", background:"white"}}
         >
           <ToggleButton value="light"><Icon ariaLabel="javascript" as={WiSolarEclipse}/></ToggleButton>
           <ToggleButton value="dark"><Icon ariaLabel="javascript" as={WiMoonThirdQuarter}/></ToggleButton>
           <ToggleButton value="system"><Icon ariaLabel="javascript" as={WiMoonAltWaningCrescent1}/></ToggleButton>
         </ToggleButtonGroup>
       <Expander type="multiple">
-      <ExpanderItem title='Cricket' value="item-1">
+      <ExpanderItem title='Cricket' value="item-1" style={{position:'fixed', top:"40px",right:'10px', backgroundColor:"white"}}>
          <Heading>{user.username}</Heading>
-         <Button onClick={signOut}>Sign out</Button>
+         <Button  onClick={signOut}>Sign out</Button>
         
       </ExpanderItem>
     </Expander> 

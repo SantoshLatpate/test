@@ -1,0 +1,11 @@
+type Player @model @auth(rules: [{allow: public}]) {
+  id: ID!
+  Name: String
+  Team: String
+  detail: String
+  Gread: Float
+  Type: String
+  image: String
+  Country: String
+}
+ 

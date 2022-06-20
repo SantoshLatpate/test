@@ -1,6 +1,6 @@
 import Amplify from "aws-amplify";
 import awsconfig from "../aws-exports";
-import React, { Component, useEffect, useState } from "react";
+import React, { useEffect, useState } from "react";
 import "@aws-amplify/ui-react/styles.css";
 import { Image } from "@aws-amplify/ui-react";
 import PlayerDetail from "./PlayerDetail";
@@ -11,8 +11,7 @@ import { View, Grid, Card, Heading } from "@aws-amplify/ui-react";
 import data from "../Data/data.json";
 import austraila from "../Data/austrila.json";
 import SA from "../Data/SA.json";
-import { DataStore } from '@aws-amplify/datastore';
-import { Player } from './models';
+
 
 Amplify.configure(awsconfig);
 

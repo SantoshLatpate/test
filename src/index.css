@@ -11,3 +11,10 @@ code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
     monospace;
 }
+
+.toggleButton {
+  position:"fixed";
+  right:'10px';
+  top: "5px";
+  background :"white";
+}

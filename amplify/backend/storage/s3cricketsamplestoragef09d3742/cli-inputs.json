@@ -1,0 +1,12 @@
+{
+  "resourceName": "s3cricketsamplestoragef09d3742",
+  "bucketName": "cricketsample-storage-f09d3742",
+  "policyUUID": "0ce5b480",
+  "storageAccess": "auth",
+  "guestAccess": [],
+  "authAccess": [
+    "CREATE_AND_UPDATE",
+    "READ",
+    "DELETE"
+  ]
+}
